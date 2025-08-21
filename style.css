@@ -1,0 +1,71 @@
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: sans-serif;
+  font-size: 11pt;
+  line-height: 15pt;
+}
+
+h1 {
+  text-align: center;
+  font-size: 13pt;
+}
+h1 {
+  color: goldenrod; /* 원하는 색상 코드로 변경 가능 */
+}
+
+table {
+  width: 500px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: left;
+  background-color: whitesmoke;
+}
+
+table, tr, td, th {
+  border: 0.5px solid hotpink;
+  border-collapse: collapse;
+  padding: 5px; 
+}
+
+th {
+  font-weight: bold;
+}
+.month
+{text-align: center;}
+
+li {
+  margin-left: 20px;
+}
+
+
+img{height: 100px;}
+
+.half {height: 50px;}
+footer {
+  font-size: 7pt;
+  
+  bottom: 0;
+  margin top: 50px;
+  text-align: center;
+}
+
+@media screen and (max-width: 704px) {
+
+}
+
+
+
+body {
